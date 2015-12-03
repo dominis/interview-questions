@@ -9,7 +9,7 @@ Here you can find my up to date [cv](https://docs.google.com/document/d/1L2Rh_od
 ## List of questions:
 
 
-- Difference between apache and nginx:
+- Difference between apache and nginx?
 
   https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
 
