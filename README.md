@@ -6,8 +6,6 @@ Here you can find my up to date [cv](https://docs.google.com/document/d/1L2Rh_od
 ## List of questions:
 
 - Difference between apache and nginx:
-
-There are a lot of things you can talk about stating that nginx is event-based is a good start
-http://stackoverflow.com/a/3436969
+  https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
 
 -
