@@ -27,7 +27,6 @@ Here you can find my up to date [cv](https://docs.google.com/document/d/1L2Rh_od
 
 - What are the three types of messages issued while establishing a TCP connection?
 
-  SYN, SYN+ACK, ACK
   http://www.tcpipguide.com/free/t_TCPConnectionEstablishmentProcessTheThreeWayHandsh-3.htm
 
 - In a reverse HTTP proxy, to which header is customary to add the remote IP address in the new request?
