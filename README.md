@@ -68,4 +68,46 @@ Here you can find my up to date [cv](https://docs.google.com/document/d/1L2Rh_od
   http://www.rsyslog.com/
   https://www.elastic.co/webinars/introduction-elk-stack
 
+- Talk about the major RAID types
 
+  http://www.tonypickett.com/wp-content/uploads/2013/12/allraid.png
+
+- What is a zombie process?
+
+  https://en.wikipedia.org/wiki/Zombie_process
+
+- What is an ephemeral port?
+
+  https://en.wikipedia.org/wiki/Ephemeral_port
+
+- What limits the maximum number of connections on a linux server?
+
+  http://stackoverflow.com/a/2332756
+
+- How netstat works?
+
+  http://linuxcommand.org/man_pages/netstat8.html
+
+- How traceroute works?
+
+  https://ccieblog.co.uk/basic-troubleshooting-commands/how-does-traceroute-work
+
+- What process has PID 0 and PID 1?
+
+  http://unix.stackexchange.com/a/145581
+
+- What is `/proc`?
+
+  http://linux.die.net/man/5/proc
+
+- What is the difference between ext2 ext3 and ext4 filesystems?
+
+  http://www.thegeekstuff.com/2011/05/ext2-ext3-ext4/
+
+- Why is a battery on a RAID controller?
+
+  http://serverfault.com/a/203361
+
+- How would you fix `chmod a-x -Rf /bin`?
+
+  http://unix.stackexchange.com/questions/83862/how-to-chmod-without-usr-bin-chmod
